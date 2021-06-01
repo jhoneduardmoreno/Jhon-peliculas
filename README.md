@@ -25,12 +25,5 @@ La pueden ver en el siguiente link: [Pagina de Inicio](https://media.giphy.com/m
 La pueden ver en el siguiente link: [Pagina de Error 404](https://media.giphy.com/media/LJYz9isi1KoiiA1zTH/giphy.gif "Pagina de Error 404")
 
 
-Se utilizaron recursos de los siguientes sitios:
-<ul>
-  <li>Uso de imágenes:</li>
-      <ul>
-          <li>https://www.pexels.com/es-es/</li>
-      </ul>
-</ul>
 
 ###### _Hecho por [jhoneduardmoreno](https://github.com/jhoneduardmoreno)_
